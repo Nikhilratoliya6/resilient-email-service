@@ -4,7 +4,7 @@ public class Email {
     private String subject;
     private String body;
 
-    // Constructor, getters, and setters
+    
     public Email(String emailId, String recipient, String subject, String body) {
         this.emailId = emailId;
         this.recipient = recipient;
