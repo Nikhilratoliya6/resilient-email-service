@@ -1,6 +1,3 @@
-Here’s a **README.md** for your project, explaining the setup, features, and how to run it:
-
----
 
 # Resilient Email Sending Service
 
